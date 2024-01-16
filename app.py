@@ -28,7 +28,7 @@ def main():
 
 def show_home():
     st.title("Welcome to My Personal Website")
-    st.image("your_profile_picture.jpg", caption="Your Profile Picture", use_column_width=True)
+    st.image("picture.jpg", caption="My Profile Picture", use_column_width=True)
 
 def show_about():
     st.title("About Me")
